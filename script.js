@@ -10,7 +10,7 @@ let image = new Image();
 
 // Initialize AI model
 const ai = new GoogleGenAI({
-    apiKey: "AIzaSyB4JK-5_NhWH3FpXrKZrvHYSVhiLn3zTbg"
+    apiKey: "AIzaSyD3U_iIFMJJWM4w0Sx6HMKHg1IghtGUYN8"
 });
 
 const imageLibrary = [
